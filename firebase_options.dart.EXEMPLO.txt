@@ -1,0 +1,9 @@
+Este arquivo é apenas um lembrete.
+
+NÃO renomeie este arquivo para usar no projeto.
+
+O arquivo correto `lib/firebase_options.dart` deve ser criado automaticamente com:
+
+flutterfire configure
+
+O conteúdo depende do seu próprio projeto Firebase.
