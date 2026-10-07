@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235362070271",
+    "project_id": "atvauladia7do10",
+    "storage_bucket": "atvauladia7do10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235362070271:android:38a8334dd97ad92098a6ca",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235362070271-aihtpi5t806464qph1370jm8uhn10if4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3pDqsXlnoIYwmwI07JriuKXBZgBo0Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235362070271-aihtpi5t806464qph1370jm8uhn10if4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
