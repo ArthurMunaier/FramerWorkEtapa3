@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190366889869",
+    "project_id": "detetives-de-bugs",
+    "storage_bucket": "detetives-de-bugs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190366889869:android:33f35f414898c178522fc4",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDG0H1RusoJQADkKRjlhZBkVIVsln0H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
