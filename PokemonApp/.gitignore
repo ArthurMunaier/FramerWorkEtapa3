@@ -1,0 +1,14 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Flutter
+pokemonapp/build/
+pokemonapp/.dart_tool/
+pokemonapp/.idea/
+pokemonapp/.flutter-plugins
+pokemonapp/.flutter-plugins-dependencies
+
+# Sistema
+.DS_Store
