@@ -1,0 +1,13 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.db
+
+# Flutter
+voos_app/build/
+voos_app/.dart_tool/
+voos_app/.idea/
+
+# Sistema
+.DS_Store
